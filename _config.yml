@@ -19,14 +19,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Idea Of PayNHalt Was Conceived In Year 2018 By The Bunch Of IT Professionals. 
   They Worked On The Idea Tirelessly And Finally The Idea Was Transformed In Reality In 2019. 
   PayNHalt App Is Designed To Meet Your Day To Day Parking Problems.
-baseurl: "ukdpnhblog" # the subpath of your site, e.g. /blog
+baseurl: "/ukdpnhblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PayNHalt
 #github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
