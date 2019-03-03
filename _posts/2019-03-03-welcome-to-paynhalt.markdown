@@ -4,7 +4,7 @@ title:  "Parking problems in metropolitan cities in india!"
 date:   2019-03-03 15:49:45 +0530
 categories: ParkingSolutions
 ---
-![My helpful screenshot](/assets/img1.jpg)
+![Parking](/ukdpnhblog/assets/img1.jpg)
 
 Indian automobile market has long growth story. The growth had picked up after the 1991 economic liberalisation.
 Rapid growth of vehicle let to a parking problems, special in metropolitan cities like Mumbai.
