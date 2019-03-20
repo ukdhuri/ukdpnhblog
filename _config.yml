@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: PayN'Halt Blog
-email: support@paynalt.com
+email: support@creaturenuts.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Idea Of PayNHalt Was Conceived In Year 2018 By The Bunch Of IT Professionals. 
   They Worked On The Idea Tirelessly And Finally The Idea Was Transformed In Reality In 2019. 
